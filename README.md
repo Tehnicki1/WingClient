@@ -1,4 +1,4 @@
-# WingClient
+# Wing Client
 Wing Client is a 1.19.4 mid client made for elytrapvp. Made by me, owned by markable and loek (discontinued a long time ago).
 
 # How to use ❓
