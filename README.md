@@ -7,7 +7,7 @@ Wing Client is a 1.19.4 mid client made for elytrapvp. Made by me, owned by mark
 3. Right alt to open the gui
 
 # Credits 🫡
-Made the client - Ykela (Markable, Loek owners)
+Made the client - Ykela (Markable, Loek owners) <br>
 Cracking - Ykela
 
 # GUI
